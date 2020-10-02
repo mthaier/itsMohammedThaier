@@ -1,4 +1,4 @@
-<h1> Mohammed Thaier
+<h6> Mohammed Thaier
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itsMohammedThaier&show_icons=true&theme=graywhite&include_all_commits=true&)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsMohammedThaier&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
