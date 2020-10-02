@@ -4,11 +4,8 @@
 ![Image of Yaktocat](https://media.tenor.com/images/4e6c9bf3db8982364aa08450fcd53ede/tenor.gif)
 
 
-- 🔭 I’m currently working on ... New mobile beta game & Developing chalange
-- 🌱 I’m currently learning ... New stuff in unity & English language
-- 👯 I’m looking to collaborate on ... Unity3d who use c# or java
-- 🤔 I’m looking for help with ... Improving my lap top
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on new mobile beta game & Developing chalange
+- 🌱 I’m currently learning New stuff in unity & English language
+- 👯 I’m looking to collaborate on unity3d who use c# or java
+- 🤔 I’m looking for help with improving my lap top
+- 💬 Ask me about anything
