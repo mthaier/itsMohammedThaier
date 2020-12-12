@@ -1,6 +1,6 @@
 <h1> Mohammed Thaier
   
-## Contact with me on [Instagram](https://www.instagram.com/itsmohammedthaier/?hl=en) & i'll be thankful if you donate me on [Patreon](https://play.google.com/store/apps/details?id=com.thebeginning.relaxingtails)
+## Contact with me on [Instagram](https://www.instagram.com/itsmohammedthaier/?hl=en)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itsMohammedThaier&show_icons=true&theme=graywhite&include_all_commits=true&)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsMohammedThaier&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
